@@ -1,11 +1,38 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">A passionate frontend dev🚀 Full Stack Developer | MERN Stack 💡 Passionate about building scalable web applicationseloper from India</h3>
+# 👋 Hi, I'm Manish Kumar
 
-- 📫 How to reach me **maneeshkumar9080@gmail.com**
+🚀 **Full Stack Developer | MERN Stack**  
+💡 Passionate about building scalable web applications  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+## 🧑‍💻 About Me
+
+- 💼 Full Stack Developer (MERN)  
+- 🛠️ Built real-world projects using React, Node.js, Express & MongoDB
+- ⚙️ Interested in backend architecture & clean APIs  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+React, Redux, HTML5, CSS3, Bootstrap  
+
+**Backend:**  
+Node.js, Express.js  
+
+**Database:**  
+MongoDB  
+
+**Tools & Platforms:**  
+Git, GitHub, Postman, VS Code  
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/manish-kumar-563189175/
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*  
